@@ -1,3 +1,3 @@
-# Luz Convergente
+# void (tierro incognita) {}
 
-https://desarrollosparaartesvisuales.github.io/tierroincognitaJuanMiceliUNGS/index.html
+https://desarrollosparaartesvisuales.github.io/tierroincognitaJuanMiceliUNGS/#img1
