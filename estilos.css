@@ -22,7 +22,11 @@ h1 {
     margin-top: 50px;
 }
 
-a {
+a{
+    color: #fff;
+}
+
+a.irA {
     display: inline-block;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -34,6 +38,13 @@ a {
 }
 
 a.estoyaqui{
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding:  4px;
+    color: #fff;
     background: #f00;  
 
 }
@@ -50,9 +61,9 @@ p.participantes{
 }
 
 p#firmaCurador{
-        padding: 20px;
-      text-align: right;  
-    
+    padding: 20px;
+    text-align: right;  
+
 }
 
 p.textoCuratorial{
