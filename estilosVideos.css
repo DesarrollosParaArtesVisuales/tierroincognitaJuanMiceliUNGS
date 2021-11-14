@@ -2,12 +2,13 @@ div#contenedor02{
     background-image: url("imagenes/Captura%20de%20Pantalla%202021-10-21%20a%20la(s)%2010.22.22%20a.%20m..png");
 }
 
-div.videos{
-    
-    width: 90%;
+div#contenedor03{
+    background-image: url("imagenes/Captura%20de%20Pantalla%202021-10-21%20a%20la(s)%2010.22.27%20a.%20m..png");
+}
 
-    display: block;
- 
+div.videos{    
+    width: 90%;
+    display: block; 
 }
 
 div.contenedorDevideo{
