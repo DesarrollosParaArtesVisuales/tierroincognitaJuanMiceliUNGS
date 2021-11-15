@@ -11,6 +11,15 @@ div.videos{
     display: block; 
 }
 
+div.contenedorDeTexto{
+         width: 505px;
+    background: rgba(0,0,0,40%);
+            display: inline-block;
+    vertical-align: text-top;
+    
+    margin:  5px;
+}
+
 div.contenedorDevideo{
      width: 505px;
         display: inline-block;
